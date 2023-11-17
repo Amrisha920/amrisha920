@@ -1,10 +1,10 @@
 
 <div align="center">
- <h1> Hello, I'm Suyash... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+ <h1> Hello, I'm Amrisha... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 </div>
 <div align="center">
- <img src=https://komarev.com/ghpvc/?username=s-dabral alt=s-dabral>
- <a href="https://github.com/s-dabral/s-dabral/stargazers"><img src="https://img.shields.io/github/stars/s-dabral" alt="Stars Badge"/></a>
+ <img src=https://komarev.com/ghpvc/?username=amrisha920 alt=amrisha920>
+ <a href="https://github.com/amrisha920/amrisha920/stargazers"><img src="https://img.shields.io/github/stars/amrisha920" alt="Stars Badge"/></a>
 </div>
 <br>
 **💬 A Student Pursuing Bachelor of Technology in Computer Science <br>
@@ -30,17 +30,17 @@
 <br>
 <h3>Details</h3>
 <p align="center">
-  <a href="https://github.com/s-dabral">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s-dabral&theme=transparent" />
+  <a href="https://github.com/amrisha920">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amrisha920&theme=transparent" />
   </a>
-  <a href="https://github.com/s-dabral">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-dabral&card_width=338&theme=transparent" />
+  <a href="https://github.com/amrisha920">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrisha920&card_width=338&theme=transparent" />
   </a>
-  <a href="https://github.com/s-dabral">
-    <img src="https://github-readme-stats.vercel.app/api?username=s-dabral&show_icons=true&theme=transparent" />
+  <a href="https://github.com/amrisha920">
+    <img src="https://github-readme-stats.vercel.app/api?username=amrisha920&show_icons=true&theme=transparent" />
   </a>
- <a href="https://github.com/s-dabral">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-dabral&layout=compact&theme=transparent&langs_count=20" />
+ <a href="https://github.com/amrisha920">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrisha920&layout=compact&theme=transparent&langs_count=20" />
   </a>
  
  </p>
@@ -50,20 +50,15 @@
 **💬 My inbox is always open, Contact me. **
 <br>
 <br> 
-  <a href="https://www.linkedin.com/in/suyash-dabral-664011195/" target="_blank">
-   <img align="left" alt="Suyash | Linkedin" width="26px" src="https://github.com/s-dabral/s-dabral/blob/main/Linkedin.svg" />
+  <a href="https://www.linkedin.com/in/amrisha-rawat-8b3463226" target="_blank">
+   <img align="left" alt="Amrisha | Linkedin" width="26px" src="https://github.com/amrisha920/amrisha920/blob/main/Linkedin.svg" />
   </a>
-  <a href="mailto:s.dabral2001@gmail.com" target="_blank">
-    <img align="left" alt="Suyash | Gmail" width="26px" src="https://github.com/s-dabral/s-dabral/blob/main/Gmail.svg" />
+  <a href="mailto:amrisha461@gmail.com" target="_blank">
+    <img align="left" alt="Amrisha | Gmail" width="26px" src="https://github.com/amrisha920/amrisha920/blob/main/Gmail.svg" />
   </a>
-  <a href="https://leetcode.com/Suyash_293/" target="_blank">
-    <img align="left" alt="Suyash | leetcode" width="25px" src="https://github.com/s-dabral/s-dabral/blob/main/LeetCode.svg" />
-  </a>
-  <a href="" target="_blank">
-    <img align="left" alt="Suyash | Twitter" width="26px" src="https://github.com/s-dabral/s-dabral/blob/main/Twitter.svg" />
-  </a>
-   <a href="https://www.codingninjas.com/studio/profile/9471cac7-c248-48b7-863f-1780e099b178" target="_blank">
-    <img align="left" alt="Harsh | CodingNinjas" width="25px" src="https://github.com/s-dabral/s-dabral/blob/main/coding-ninjas.svg" />
+
+   <a href="https://profile.codingninjas.com/f7d00495-fee9-47e2-8147-a87dbfed19c2" target="_blank">
+    <img align="left" alt="Amrisha | CodingNinjas" width="25px" src="https://github.com/amrisha920/amrisha920/blob/main/coding-ninjas.svg" />
   </a>
   
 
